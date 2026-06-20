@@ -73,6 +73,30 @@ body {
   margin-top: 48px;
 }
 
+.quote-section {
+  background: #e5e7eb;
+  padding: 80px 24px;
+}
+
+.quote {
+  font-size: 36px;
+  font-style: italic;
+  color: #1f2937;
+  max-width: 800px;
+  margin: auto;
+}
+
+.author {
+  text-align: right;
+  font-size: 24px;
+  font-weight: 900;
+  margin-top: 16px;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 .box {
   max-width: 150px;
 }
