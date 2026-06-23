@@ -15,7 +15,8 @@ https://cyber2coder.github.io/landing-page/
 
 ## Preview
 *(Add your screenshot here once ready)*  
-landing-page/images/screenshot.png
+![Project Screenshot](images/landing-page-preview.jpg)
+
 
 ## Project Structure
 - `index.html` — Main page layout  
