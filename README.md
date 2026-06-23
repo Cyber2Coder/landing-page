@@ -3,8 +3,8 @@
 A fully responsive landing page built as part of The Odin Project Foundations curriculum.  
 This project demonstrates layout recreation using Flexbox, semantic HTML structure, and clean CSS styling.
 
-## 🔗 Live Demo
-https://cyber2coder.github.io/Cyber2Coder-landing-page/
+## 🔗 Live
+https://cyber2coder.github.io/landing-page/
 
 ## 📁 Project Structure
 - `index.html` — Main page layout  
